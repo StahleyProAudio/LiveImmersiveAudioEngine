@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../LIAE.AH.SQ5/LIAE.AH.SQ5.csproj" Id="4d74e78c-a54a-49d5-9866-186a6526d66a" />
+  <Project Path="../LIAE.Audio/LIAE.Audio.csproj" />
+  <Project Path="../LIAE.Core/LIAE.Core.csproj" Id="9fbb00ef-2099-4951-9992-fbf194584d5e" />
+  <Project Path="../LIAE.MIDI/LIAE.MIDI.csproj" />
+  <Project Path="../LIAE.NRPN/LIAE.NRPN.csproj" Id="43f415e2-3bdf-47e5-a5c4-a6e2df1f8e95" />
+  <Project Path="../LIAE.TCP/LIAE.TCP.csproj" />
+  <Project Path="LiveImmersiveAudioEngine.csproj" />
+</Solution>
